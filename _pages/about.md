@@ -14,10 +14,15 @@ redirect_from:
 I am currently a **Senior Engineer** at **Huawei**, specializing in **AI Security**. I received my Ph.D. degree in 2022 from Xidian University, where I was advised by [Prof. Haichang Gao](https://web.xidian.edu.cn/hchgao/). During my doctoral studies, I was a Visiting Student at Nanyang Technological University (NTU), Singapore, from 2021 to 2022, conducting research under the supervision of [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html).
 
 ## Research Interests
-- Red-teaming and Evaluation of Foundation Models
-- Safety and Security of LLM-Based Autonomous Agents
-- Backdoor Attacks and Defenses in Deep Learning 
-- Trustworthy AI
+
+* **Security Evaluation and Red Teaming for Foundation Models (FMs):**
+    * Focusing on Large Language Models (LLMs), Vision-Language Models (VLMs), Text-to-Image (T2I) Models, and Agents.
+    * Specializing in Jailbreaking, Prompt Injection, and other adversarial misuse.
+* **Safety and Security of LLM-Based Autonomous Agents.**
+* **LLM Safety Alignment and Trustworthy AI.**
+* **Adversarial Robustness in Deep Learning:**
+    * Adversarial Example Generation and Defense.
+    * Backdoor Attacks and Defenses.
 <br/>
 
 ## Publications
