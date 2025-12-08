@@ -11,7 +11,7 @@ redirect_from:
 <span style="font-size:large;font-weight:bold;"> Welcome to my homepage! </span>
 <br/>
 
-I am currently a **Senior Engineer** at **Huawei**, specializing in **AI Security**. I received my Ph.D. degree in 2022 from Xidian University, where I was advised by [Prof. Haichang Gao](https://web.xidian.edu.cn/hchgao/). During my doctoral studies, I was a Visiting Student at Nanyang Technological University (NTU), Singapore, from 2021 to 2022, conducting research under the supervision of [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html).
+I am currently a **Senior Engineer** at **HuaWei**, specializing in **AI Security**. I received my Ph.D. degree in 2022 from Xidian University, where I was advised by [Prof. Haichang Gao](https://web.xidian.edu.cn/hchgao/). During my doctoral studies, I was a Visiting Student at Nanyang Technological University (NTU), Singapore, from 2021 to 2022, conducting research under the supervision of [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html).
 
 ## Research Interests
 
