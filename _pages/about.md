@@ -41,6 +41,12 @@ I am currently a **Senior Engineer** at **HuaWei**, specializing in **AI Securit
   <br/>
   Chunlong Xie, Kangjie Chen, Shangwei Guo, **Shudong Zhang**, Tianwei Zhang, Tao Xiang
   <br/>
+  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*
+
+- **[Attention! Your Vision Language Model Could Be Maliciously Manipulated](https://openreview.net/pdf?id=418UYQKGqB)**
+  <br/>
+  Xiaosen Wang, Shaokang Wang, Zhijin Ge, Yuyang Luo, **Shudong Zhang**
+  <br/>
   *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025*, **Spotlight**
 
 - **[TRUST-VLM: Thorough Red-teaming for Uncovering Safety Threats in Vision-Language Models](https://kangjie-chen.github.io/files/2025_ICML.pdf)**
@@ -65,22 +71,9 @@ I am currently a **Senior Engineer** at **HuaWei**, specializing in **AI Securit
 
 
 <!-- ## Book -->
-
-
-
-
 ## Professional Services
 - Conference Reviewer for ICML, ICLR, NeurIPS, CVPR, AAAI, IJCAI, ICCV
 - Journal Reviewer for TDSC, TIFS, TIP, TMM, TCSVT
 
-
-## Teaching
-- Introduction to Computational Thinking and Programming (SC1003), Teaching Assistant, 2022 Fall, Nanyang Technological University
-
-
-## Invited Talks
-- “Temporal Watermarks for Deep Reinforcement Learning Models”,
-<br/>
-Student Lecture Series (SLS), Nanyang Technological University, 23 June 2021.
 
 
