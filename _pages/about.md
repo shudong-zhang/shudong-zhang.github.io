@@ -11,7 +11,7 @@ redirect_from:
 <span style="font-size:large;font-weight:bold;"> Welcome to my homepage! </span>
 <br/>
 
-I am currently a Research Fellow at [Digital Trust Centre](https://www.ntu.edu.sg/dtc), Nanyang Technological University, Singapore, working with [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html) and [Prof. Kwok-Yan Lam](https://personal.ntu.edu.sg/kwokyan.lam/). I received my Ph.D. degree at Nanyang Technological University, advised by Prof. Tianwei Zhang. Before that, I received my M.Eng. degree from Tianjin University under the supervision of [Prof. Jianye Hao](http://www.icdai.org/jianye.html) and B.Eng. degree from University of Electronic Science and Technology of China. 
+I am currently a **Senior Engineer** at **Huawei**, specializing in **AI Security**. I received my Ph.D. degree in 2022 from Xidian University, where I was advised by [Prof. Haichang Gao](https://web.xidian.edu.cn/hchgao/). During my doctoral studies, I was a Visiting Student at Nanyang Technological University (NTU), Singapore, from 2021 to 2022, conducting research under the supervision of [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html).
 
 ## Research Interests
 - Red-teaming and Evaluation of Foundation Models
