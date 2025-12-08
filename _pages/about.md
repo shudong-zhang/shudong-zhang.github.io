@@ -18,7 +18,7 @@ I am currently a **Senior Engineer** at **Huawei**, specializing in **AI Securit
 * **Security Evaluation and Red Teaming for Foundation Models (FMs):**
     * Focusing on Large Language Models (LLMs), Vision-Language Models (VLMs), Text-to-Image (T2I) Models, and Agents.
     * Specializing in Jailbreaking, Prompt Injection, and other adversarial misuse.
-* **Safety and Security of LLM-Based Autonomous Agents.**
+* **Safety and Security of LLM-Based Agents.**
 * **LLM Safety Alignment and Trustworthy AI.**
 * **Adversarial Robustness in Deep Learning:**
     * Adversarial Example Generation and Defense.
