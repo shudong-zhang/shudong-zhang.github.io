@@ -25,6 +25,17 @@ I am currently a **Senior Engineer** at **HuaWei**, specializing in **AI Securit
 <br/>
 
 ## Publications
+- **[ShadeEdit: A Utility-Preserving and Defense-Evasive Knowledge Manipulation Attack in Federated LLMs](https://openreview.net/pdf?id=kCAgwUykm2)**
+  <br/>
+  Xu Zhang, Hangcheng Liu, Shangwei Guo, **Shudong Zhang**, Tianwei Zhang, Tao Xiang 
+  <br/>
+  *The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026*
+
+- **[GlitchMiner: Mining Glitch Tokens in Large Language Models via Gradient-based Discrete Optimization](https://openreview.net/pdf?id=DRpX4A5u3v)**
+  <br/>
+  Zihui Wu, Haichang Gao, Ping Wang, **Shudong Zhang**, Zhaoxiang Liu, Shiguo Lian  
+  <br/>
+  *The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026*
 
 - **[Transstratal Adversarial Attack: Compromising Multi-Layered Defenses in Text-to-Image Models](https://openreview.net/pdf?id=JIpKkzSqly)**
   <br/>
