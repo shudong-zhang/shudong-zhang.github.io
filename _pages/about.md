@@ -40,7 +40,7 @@ I am currently a **Senior Engineer** at **Huawei**, specializing in **AI Securit
 
 - **[ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users](https://openreview.net/pdf?id=H2ATO32ilj)**
   <br/>
-  Guanlin Li, <u>Kangjie Chen</u>\#, Shudong Zhang, Jie Zhang, Tianwei Zhang
+  Guanlin Li, Kangjie Chen, **Shudong Zhang**, Jie Zhang, Tianwei Zhang
   <br/>
   *The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS), 2024*
 
