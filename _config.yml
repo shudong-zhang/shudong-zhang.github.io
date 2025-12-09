@@ -23,7 +23,7 @@ repository               : "shudong-zhang/shudong-zhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "shudong.png"
   name             : "Shudong Zhang / 张树栋"
   pronouns         : # example: "she/her"  
   bio              : "Security Researcher focused on Trustworthy AI"
